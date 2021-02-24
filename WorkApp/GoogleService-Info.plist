@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>724676450192-6i09je6ibarv8ir2l0bo7c9nu4fum578.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.724676450192-6i09je6ibarv8ir2l0bo7c9nu4fum578</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgOymJ3h9gY422_51bXt6vISjWNIAJrVM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>724676450192</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Magomed.Nagoev.WorkApp</string>
+	<key>PROJECT_ID</key>
+	<string>workapp-a2f2f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>workapp-a2f2f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:724676450192:ios:7321b7c78416625afbc515</string>
+	<key>DATABASE_URL</key>
+	<string>https://workapp-a2f2f.firebaseio.com</string>
+</dict>
+</plist>

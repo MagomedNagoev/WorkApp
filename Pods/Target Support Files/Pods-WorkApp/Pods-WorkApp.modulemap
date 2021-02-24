@@ -1,0 +1,6 @@
+framework module Pods_WorkApp {
+  umbrella header "Pods-WorkApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
